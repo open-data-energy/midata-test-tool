@@ -1,0 +1,10 @@
+target/
+target-eclipse/
+.classpath
+.project
+.settings/
+*.iml
+*.iws
+*.ipr
+*.idea/
+.directory
